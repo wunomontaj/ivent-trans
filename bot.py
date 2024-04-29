@@ -1,7 +1,7 @@
 from telegram.ext import Updater, MessageHandler, Filters
 
 # Замените 'YOUR_TELEGRAM_BOT_TOKEN' на свой токен, полученный от BotFather
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '7125097349:AAFlPMJvd0lWd8TGyMvEok76fFwEuZRTDlY'
 
 # Обработчик всех сообщений
 def echo(update, context):
